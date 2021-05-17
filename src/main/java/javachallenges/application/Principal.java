@@ -1,12 +1,11 @@
 package javachallenges.application;
 
-import javachallenges.challenges.DoubleOrNothing;
+import javachallenges.challenges.WaterBill;
 
 public class Principal {
 
 	public static void main(String... args) {
 
-		DoubleOrNothing game = new DoubleOrNothing();
-		game.playGame();
+		System.out.println(WaterBill.calculateWaterBill(600));
 	}
 }
