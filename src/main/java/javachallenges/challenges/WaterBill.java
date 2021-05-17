@@ -3,7 +3,7 @@ package javachallenges.challenges;
 public class WaterBill {
 	
 	/*
-	 * Calculate Amount Ower for a Water Bill
+	 * Calculate Amount Owed for a Water Bill
 	 * 
 	 * 1. Minimum charge of $18.84 for 1496 gallons (two CCFs)
 	 * 2. One CCF equals 748 gallons
