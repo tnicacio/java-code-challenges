@@ -1,4 +1,4 @@
-package javachallenges.solutions;
+package javachallenges.solutions.beginner;
 
 public class PasswordComplexitySolved {
 

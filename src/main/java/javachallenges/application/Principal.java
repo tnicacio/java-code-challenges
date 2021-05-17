@@ -1,6 +1,6 @@
 package javachallenges.application;
 
-import javachallenges.challenges.WaterBill;
+import javachallenges.challenges.beginner.WaterBill;
 
 public class Principal {
 

@@ -1,4 +1,4 @@
-package javachallenges.challenges;
+package javachallenges.challenges.beginner;
 
 public class WaterBill {
 	

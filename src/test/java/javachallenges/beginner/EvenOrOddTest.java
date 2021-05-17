@@ -1,10 +1,10 @@
-package javachallenges;
+package javachallenges.beginner;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-import javachallenges.challenges.EvenOrOdd;
+import javachallenges.challenges.beginner.EvenOrOdd;
 
 class EvenOrOddTest {
 

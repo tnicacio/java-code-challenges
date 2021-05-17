@@ -1,10 +1,10 @@
-package javachallenges;
+package javachallenges.beginner;
 
 import static org.junit.jupiter.api.Assertions.*;
 
 import org.junit.jupiter.api.Test;
 
-import javachallenges.challenges.PasswordComplexity;
+import javachallenges.challenges.beginner.PasswordComplexity;
 
 class PasswordComplexityTest {
 

@@ -1,4 +1,4 @@
-package javachallenges.solutions;
+package javachallenges.solutions.beginner;
 
 import java.util.Random;
 import java.util.Scanner;
